@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 30, 2017
 
 ### Student Name:  
-(First and Last Name)
+Anna St George
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we were able to make our own tax calculator used to compute the user's total income tax, determing which tax bracket the user falls in
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson, I learned how to carry out if/else statements.
+2. In this lesson, I learned about the clearButton function.
+3. In this lesson, I learned about the document.getElementById function.
 
